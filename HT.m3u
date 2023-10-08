@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/FH1.png" group-title="香港",凤凰资讯台
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/FH2.png" group-title="香港",凤凰中文台
+http://113.117.74.12:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/CTIN.png" group-title="台湾",中天新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/TVBSN.png" group-title="台湾",TVBS新闻台
+https://epg.pw/stream/fe7380d039c7d3ba043e249c04e4af2dc630747fff1ff74c75d998806bf1b749.m3u8
