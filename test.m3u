@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/FH2.png" group-title="香港",凤凰中文台
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZW.png" group-title="香港",凤凰中文台
 http://113.117.74.12:8081/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/FH2.png" group-title="香港",凤凰中文台
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZW.png" group-title="香港",凤凰中文台
 https://sc2022.stream-link.org/tv2306.php?id=h19
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/FH1.png" group-title="香港",凤凰资讯台
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/FH1.png" group-title="香港",凤凰资讯台
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/CTIN.png" group-title="台湾",中天新闻台
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/CTI.png" group-title="台湾",中天新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/CTIN.png" group-title="台湾",中天新闻台
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/CTI.png" group-title="台湾",中天新闻台
 https://epg.pw/stream/fb3265f1cd315b909270dcd8f4fb8c085937e4b2f6026178c4ea3e3e2da4ad46.m3u8
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/CTIN.png" group-title="台湾",中天新闻台
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/CTI.png" group-title="台湾",中天新闻台
 https://epg.pw/stream/63e8b74e2b8d54eb1dddb5159fc153e3b3f8868f626b715e8fb94fdb11da763d.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/TVBSN.png" group-title="台湾",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/TVBS.png" group-title="台湾",TVBS新闻台
 https://epg.pw/stream/e5ea85f8c05b463598deb2bd3490272191a18b6235807e15ce8876809c014396.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/TVBSN.png" group-title="台湾",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/TVBS.png" group-title="台湾",TVBS新闻台
 https://epg.pw/stream/fe7380d039c7d3ba043e249c04e4af2dc630747fff1ff74c75d998806bf1b749.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/img/TVBSN.png" group-title="台湾",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/TVBS.png" group-title="台湾",TVBS新闻台
 https://epg.pw/stream/dc88e4bb8165db1af83d0c571b8260a21c248841a2f1c8c44a2bbf840ea50eea.m3u8
