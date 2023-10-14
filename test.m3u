@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE blank
+
+#EXTINF:-1 group-title="未分类",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+https://sc2022.stream-link.org/tv2306.php?id=h19
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="未分类",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="未分类",凤凰资讯
+https://sc2022.stream-link.org/tv2306.php?id=h18
+#EXTINF:-1 group-title="未分类",凤凰资讯
+http://r.jdshipin.com/0Rp07
