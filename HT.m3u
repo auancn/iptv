@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.112114.eu.org/pp.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
 http://php.17186.eu.org/phtv/fhzx.m3u8
