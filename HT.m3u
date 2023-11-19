@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
-http://113.117.74.18:8081/hls/36/index.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=h18
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZW.png" group-title="香港",凤凰中文台
-http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+https://sc2022.stream-link.org/tv2306.php?id=h19
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHXG.png" group-title="香港",凤凰香港台
 http://113.117.74.18:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/CTI.png" group-title="台湾",中天新闻台
