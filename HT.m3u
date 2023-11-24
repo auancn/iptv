@@ -8,5 +8,3 @@ https://sc2022.stream-link.org/tv2306.php?id=h19
 http://113.117.74.18:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/CTI.png" group-title="台湾",中天新闻台
 https://epg.pw/stream/63e8b74e2b8d54eb1dddb5159fc153e3b3f8868f626b715e8fb94fdb11da763d.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/TVBS.png" group-title="台湾",TVBS新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
