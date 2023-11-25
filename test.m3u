@@ -1,18 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="未分类",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZW.png" group-title="香港",凤凰中文台
 http://113.117.74.17:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="未分类",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZW.png" group-title="香港",凤凰中文台
 http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 
-#EXTINF:-1 group-title="未分类",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
 http://113.117.74.18:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="未分类",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="未分类",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 
-#EXTINF:-1 group-title="未分类",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHXG.png" group-title="香港",凤凰香港台
 http://113.117.74.18:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="未分类",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHXG.png" group-title="香港",凤凰香港台
 https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
+
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/CTI.png" group-title="台湾",中天新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/CTI.png" group-title="台湾",中天新闻台
+https://epg.pw/stream/63e8b74e2b8d54eb1dddb5159fc153e3b3f8868f626b715e8fb94fdb11da763d.m3u8
