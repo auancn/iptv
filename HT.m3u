@@ -1,7 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
-http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZX.png" group-title="香港",凤凰资讯台
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZW.png" group-title="香港",凤凰中文台
+http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/FHZW.png" group-title="香港",凤凰中文台
 http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/auancn/iptv/CTI.png" group-title="台湾",中天新闻台
